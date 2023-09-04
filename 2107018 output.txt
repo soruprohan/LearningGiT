@@ -1,0 +1,133 @@
+----- Bank Account Management System -----
+1. Add Customer
+2. Add Account
+3. List Customers
+4. List Customer Accounts
+5. Perform Transaction
+6. List Transactions
+7. Exit
+Enter your choice: 1
+Enter customer name: md. rahim
+-----------------------------------------
+----- Bank Account Management System -----
+1. Add Customer
+2. Add Account
+3. List Customers
+4. List Customer Accounts
+5. Perform Transaction
+6. List Transactions
+7. Exit
+Enter your choice: 1
+Enter customer name: md. karim
+-----------------------------------------
+----- Bank Account Management System -----
+1. Add Customer
+2. Add Account
+3. List Customers
+4. List Customer Accounts
+5. Perform Transaction
+6. List Transactions
+7. Exit
+Enter your choice: 2
+Enter customer ID: 1
+Enter initial account balance: 1000
+Account added for customer with ID: 1
+-----------------------------------------
+----- Bank Account Management System -----
+1. Add Customer
+2. Add Account
+3. List Customers
+4. List Customer Accounts
+5. Perform Transaction
+6. List Transactions
+7. Exit
+Enter your choice: 2
+Enter customer ID: 2
+Enter initial account balance: 2000
+Account added for customer with ID: 2
+-----------------------------------------
+----- Bank Account Management System -----
+1. Add Customer
+2. Add Account
+3. List Customers
+4. List Customer Accounts
+5. Perform Transaction
+6. List Transactions
+7. Exit
+Enter your choice: 3
+Customers list:
+Customer ID: 1, Name: md. rahim
+Customer ID: 2, Name: md. karim
+-----------------------------------------
+----- Bank Account Management System -----
+1. Add Customer
+2. Add Account
+3. List Customers
+4. List Customer Accounts
+5. Perform Transaction
+6. List Transactions
+7. Exit
+Enter your choice: 4
+Enter customer ID: 1
+Accounts for customer md. rahim (ID: 1):
+Account 1, Balance: $1000
+-----------------------------------------
+----- Bank Account Management System -----
+1. Add Customer
+2. Add Account
+3. List Customers
+4. List Customer Accounts
+5. Perform Transaction
+6. List Transactions
+7. Exit
+Enter your choice: 5
+Enter source account ID: 1
+Enter destination account ID: 2
+Enter transaction amount: 500
+Withdrawal of $500 successful. New balance: $500
+Deposit of $500 successful. New balance: $2500
+Transaction successful.
+-----------------------------------------
+----- Bank Account Management System -----
+1. Add Customer
+2. Add Account
+3. List Customers
+4. List Customer Accounts
+5. Perform Transaction
+6. List Transactions
+7. Exit
+Enter your choice: 5
+Enter source account ID: 1
+Enter destination account ID: 2
+Enter transaction amount: 250
+Withdrawal of $250 successful. New balance: $250
+Deposit of $250 successful. New balance: $2750
+Transaction successful.
+-----------------------------------------
+----- Bank Account Management System -----
+1. Add Customer
+2. Add Account
+3. List Customers
+4. List Customer Accounts
+5. Perform Transaction
+6. List Transactions
+7. Exit
+Enter your choice: 6
+Transactions list:
+Transaction ID: 1, Amount: $500
+Transaction ID: 2, Amount: $250
+-----------------------------------------
+----- Bank Account Management System -----
+1. Add Customer
+2. Add Account
+3. List Customers
+4. List Customer Accounts
+5. Perform Transaction
+6. List Transactions
+7. Exit
+Enter your choice: 7
+Exiting program. Goodbye!
+-----------------------------------------
+
+Process returned 0 (0x0)   execution time : 121.592 s
+Press any key to continue.
