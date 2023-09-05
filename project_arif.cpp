@@ -11,6 +11,7 @@ class Account
 {
     friend class Bank;
 //git purpose ,GIT GIT GIT GIT GIT
+//Finally it works
 protected:
     string name;
     string accountNumber;
